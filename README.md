@@ -6,4 +6,4 @@
 
 #### learn a little a bit more about me here :3
 
-Everyone calls me Beline, i'm a cat and challengers lover.
+Everyone calls me Beline, i'm a new tech enthusiast and a cat lover, seeking for new challenges.
