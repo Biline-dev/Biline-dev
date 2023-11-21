@@ -8,8 +8,8 @@
 
 Everyone calls me Beline, i'm an :
 
-* AI/ML enthusiast  <img src="https://www.pixenli.com/image/uuH5dFAo" width="80">  h
+* AI/ML enthusiast  <img src="https://www.pixenli.com/image/uuH5dFAo" width="70">  
 * A cat lover <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 * A challenger seeker ![logo](https://www.pixenli.com/image/0-fXs55-) 
-* And you can guess... a pixel art fun :3
+* And you can guess... a pixel art fan :3
 
