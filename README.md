@@ -11,6 +11,15 @@ Everyone calls me Beline , i'm :
 * A learner. 
 * A cat lover.
 
+
+Ask me about  :
+
+* Computer science.
+* AI and data science.
+* Music.
+* Pixel art.
+
+  
 Im currently :
 * Learning C++ 
 * Developing my algorithmic and problem-solving skills,
