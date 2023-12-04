@@ -21,7 +21,8 @@ Ask me about  :
 
   
 Im currently :
-* Learning C++ 
+* Learning C++
+* Enhancing SQL Skills
 * Developing my algorithmic and problem-solving skills,
 * keeping up with new technologies.
 
