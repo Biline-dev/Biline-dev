@@ -33,5 +33,5 @@
 
 
 <p align="center">
-   <img src="https://www.pixenli.com/image/uuH5dFAo" width="40px" margin = "30px">
+   <img src="https://www.pixenli.com/image/uuH5dFAo">
 </p>
