@@ -7,26 +7,22 @@
 #### Get to know me... ![logo](https://www.pixenli.com/image/0-fXs55-)
 
 
-<div align="center">
+<div>
   <p align="left">
     Everyone calls me Beline , i'm :
     * An AI/ML enthusiast. 
     * A learner. 
     * A cat lover.
-    
-    Ask me about  :
-                                
+    Ask me about  :                       
     * Computer science.
     * AI and data science.
     * Music.
     * Pixel art.
-      
     Im currently :
-    
     * Developing my algorithmic and problem-solving skills,
     * keeping up with new technologies.
   
-  </p>
+  </p align="right">
   <img src="https://www.pixenli.com/image/uuH5dFAo" />
 </div>
 
