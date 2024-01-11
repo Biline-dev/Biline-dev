@@ -5,10 +5,13 @@
 -->
 
 #### Get to know me... ![logo](https://www.pixenli.com/image/0-fXs55-)
-
+<div>
+  <img style="vertical-align:middle" src="https://via.placeholder.com/60x60" alt="A grey image showing text 60 x 60">
+  <span style="">Works.</span>
+</div>
 
 <div>
-  <p style="text-align: left;">
+  <span style="">
   Everyone calls me Beline. I'm:
     
   * An AI/ML enthusiast.
@@ -26,9 +29,8 @@
   
   * Developing my algorithmic and problem-solving skills.
   * Keeping up with new technologies.
-      
-  </p style="text-align: right;" >
-  <img src="https://www.pixenli.com/image/uuH5dFAo" style="float: right;" />
+  </span>
+  <img style="vertical-align:middle"  src="https://www.pixenli.com/image/uuH5dFAo" style="float: right;" />
 </div>
 
 
