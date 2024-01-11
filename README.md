@@ -30,12 +30,8 @@
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biline-dev&show_icons=true&locale=en" alt="biline-dev" /></p>
 </div>
-<div style="display: flex; align-items: center;">
-  <p>
-    <img style="vertical-align: middle;" src="https://www.pixenli.com/image/uuH5dFAo" />
-  </p>
-</div>
-
-  
 
 
+<p align="center">
+   <img src="https://www.pixenli.com/image/uuH5dFAo" width="40px" margin = "30px">
+</p>
