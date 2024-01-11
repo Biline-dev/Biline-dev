@@ -9,18 +9,24 @@
 
 <div>
   <p style="text-align: left;">
-    Everyone calls me Beline. I'm:
-    * An AI/ML enthusiast.
-    * A learner.
-    * A cat lover.
-    Ask me about:
-    * Computer science.
-    * AI and data science.
-    * Music.
-    * Pixel art.
-    I'm currently:
-    * Developing my algorithmic and problem-solving skills.
-    * Keeping up with new technologies.
+  Everyone calls me Beline. I'm:
+    
+  * An AI/ML enthusiast.
+  * A learner.
+  * A cat lover.
+  
+  Ask me about:
+  
+  * Computer science.
+  * AI and data science.
+  * Music.
+  * Pixel art.
+  
+  I'm currently:
+  
+  * Developing my algorithmic and problem-solving skills.
+  * Keeping up with new technologies.
+      
   </p>
   <img src="https://www.pixenli.com/image/uuH5dFAo" style="float: right;" />
 </div>
