@@ -26,13 +26,15 @@
   * Developing my algorithmic and problem-solving skills.
   * Keeping up with new technologies.
   </span>
-  <img style="vertical-align:middle"  src="https://www.pixenli.com/image/uuH5dFAo"  />
+
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biline-dev&show_icons=true&locale=en" alt="biline-dev" /></p>
 </div>
 
 
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biline-dev&show_icons=true&locale=en" alt="biline-dev" /></p>
+<p>
+<img style="vertical-align:middle"  src="https://www.pixenli.com/image/uuH5dFAo"  />
+</p>
+  
 
 
