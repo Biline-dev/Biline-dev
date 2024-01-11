@@ -27,7 +27,7 @@
   * Developing my algorithmic and problem-solving skills.
   * Keeping up with new technologies.
       
-  </p>
+  </p style="text-align: right;" >
   <img src="https://www.pixenli.com/image/uuH5dFAo" style="float: right;" />
 </div>
 
