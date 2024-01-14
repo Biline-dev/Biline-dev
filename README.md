@@ -27,8 +27,7 @@
   * Keeping up with new technologies.
   </span>
 
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biline-dev&show_icons=true&locale=en" alt="biline-dev" /></p>
+
 </div>
 
 
